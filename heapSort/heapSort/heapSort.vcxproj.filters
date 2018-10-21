@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="priorityQueue.c">
+    <ClCompile Include="MaxHeapInsertion.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxHeapBottomUp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ascending order.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
